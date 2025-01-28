@@ -1,0 +1,1 @@
+This repository demonstrates a common error in JavaScript when comparing floating-point numbers for equality.  The `foo` function appears to correctly compare two numbers for equality, but it fails in certain cases due to the inherent limitations of floating-point representation.  The solution shows a better way to handle such comparisons, avoiding unexpected results.
